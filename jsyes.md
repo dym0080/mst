@@ -1,5 +1,5 @@
-
-####  console.log('hello'.repeatify(3))期望打印出hellohellohello
+###第一次看到就做出来的，但是感觉有必要记录下来。
+####  1.console.log('hello'.repeatify(3))期望打印出hellohellohello
 ```js
         function repeatify(str,n) {
             var newStr="";
@@ -10,7 +10,7 @@
         }
         console.log(repeatify('hello',3));
 ```
-#### 下面代码如何改可以让person()打印出Colin Ihrig
+#### 2.下面代码如何改可以让person()打印出Colin Ihrig
 ```js
     var fullname = 'John Doe'
     var obj = {
